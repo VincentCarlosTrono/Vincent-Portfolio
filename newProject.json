@@ -1,0 +1,77 @@
+{
+  "data": [
+    {
+      "name": "estore",
+      "stack": "NextJs, React, TypeScript, ApolloGraphQL , PostgreSQL ,TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/1.png",
+      "link": "https://estore-next-project.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Estore-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "SteveClothing",
+      "stack": "NextJs, React, TypeScript, PostgreSQL, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/2.png",
+      "link": "https://steve-clothing-next-project.vercel.app/",
+      "repo": "https://github.com/EdTosoy/SteveClothing-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "Foodie.order",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/3.png",
+      "link": "https://edtosoy-foodiee.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Foodiee.Order-Next-Project",
+      "text": ""
+    },
+
+    {
+      "name": "Addstract",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/4.png",
+      "link": "https://edtosoy-addstract.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Addstract-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "tasty",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/5.png",
+      "link": "https://edtosoy-tasty.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Tasty-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "xypo",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/6.png",
+      "link": "https://edtosoy-xypo-git-main.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Xypo-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "Fruity",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/7.png",
+      "link": "https://edtosoy-fruity.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Fruity-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "sara",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/8.png",
+      "link": "https://edtosoy-sara.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Sara-Next-Project",
+      "text": ""
+    },
+    {
+      "name": "omnifood",
+      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
+      "img": "/images/9.png",
+      "link": "https://omnifood-project-git-main.edtosoy.vercel.app/",
+      "repo": "https://github.com/EdTosoy/Omnifood-Project",
+      "text": ""
+    }
+  ]
+}
