@@ -4,11 +4,11 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        heroBg: "url('/images/heroBG.svg')",
+        heroBg: "url('/images/heroBg1.png')",
         WorkBg: "url('/images/section2Bg.png')",
         AboutBg: "url('/images/section3Bg.png')",
         ContactBg: "url('/images/ContactBG.png')",
-        FooterBg: "url('/images/FooterBG.png')",
+        FooterBg: "url('/images/footerImage.png')",
       }),
       colors: {
         darkGray: "#292929",

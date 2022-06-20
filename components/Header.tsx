@@ -65,7 +65,7 @@ export default function Header() {
         <Link href="/">
           <div className="cursor-pointer  ">
             <Image
-              src="/images/logo.png"
+              src="/images/logo1.png"
               width={154}
               height={61}
               alt="Developer logo"
