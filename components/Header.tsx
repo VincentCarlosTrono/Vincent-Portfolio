@@ -79,8 +79,12 @@ export default function Header() {
             </Link>
           ))}
           <Link href="mailto:ed.tosoy@gmail.com">
-            <button className="py-2 px-5 border-2 rounded-full secondary-btn ">
-              Contact Me
+            <button
+              className={`py-2 sm:py-3 px-6  border-2 rounded-full secondary-btn ${
+                scroll && "primary-btn border-none shadow-none"
+              }`}
+            >
+              Download CV
             </button>
           </Link>
         </div>

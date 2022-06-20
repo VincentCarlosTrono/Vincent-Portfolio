@@ -10,7 +10,7 @@ export default function Contact() {
   const [submited, setSubmited] = useState(false);
   return (
     <section
-      className="grid-container mt-32 sm:mt-60 md:mt-0 py-10 bg-ContactBg  bg-left bg-no-repeat bg-contain "
+      className="grid-container mt-32 sm:mt-60 md:mt-0 py-10 "
       id="Get-In-Touch"
       data-aos="fade-down"
       data-aos-duration="1000"
@@ -85,15 +85,13 @@ export default function Contact() {
             </button>
           </form>
         </div>
-        <div className="grid justify-center md:justify-end lg:justify-center">
+        {/* <div className="grid justify-center md:justify-end lg:justify-center">
           <div className="text-left  max-w-sm">
             <div
               className="md:block hidden"
               data-aos="fade-down"
               data-aos-duration="1500"
-            >
-            
-            </div>
+            ></div>
             <div className="" data-aos="fade-up" data-aos-duration="2000">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl    font-extralight  my-2">
                 Need Something else? Let’s talk.
@@ -143,7 +141,7 @@ export default function Contact() {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </main>
     </section>
   );

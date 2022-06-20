@@ -13,6 +13,11 @@ module.exports = {
       colors: {
         darkGray: "#292929",
         violet: "#A476E9",
+        darkOrange: "#FF7C5F",
+      },
+      fontFamily: {
+        title: ["Poppins"],
+        body: ["Rubik"],
       },
     },
   },
