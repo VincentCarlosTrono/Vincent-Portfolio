@@ -9,7 +9,7 @@ export default function Projects() {
   const [showOldProjects, setShowOldProjects] = useState(false);
   return (
     <section className="grid-container pt-20 pb-10">
-      <main className="col-start-2 col-end-3 ">
+      {/* <main className="col-start-2 col-end-3 ">
         <div className="grid  md:grid-cols-2 gap-9">
           {NEWPROJECTS.data.map(
             ({ name, text, repo, img, link, stack }, index) => (
@@ -94,7 +94,7 @@ export default function Projects() {
             )}
           </div>
         )}
-      </main>
+      </main> */}
     </section>
   );
 }

@@ -25,7 +25,7 @@ export default function projects() {
       </Head>
       <Header />
       <div onMouseOver={() => setOpenMenu(false)}>
-        <Projects />
+        {/* <Projects /> */}
         <Footer />
       </div>
     </div>

@@ -7,7 +7,7 @@ module.exports = {
         heroBg: "url('/images/heroBg1.png')",
         WorkBg: "url('/images/section2Bg.png')",
         AboutBg: "url('/images/section3Bg.png')",
-        ContactBg: "url('/images/ContactBG.png')",
+        ContactBg: "url('/images/section4Bg.png')",
         FooterBg: "url('/images/footerImage.png')",
       }),
       colors: {
