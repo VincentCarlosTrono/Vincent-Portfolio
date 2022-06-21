@@ -31,10 +31,9 @@ export default function Footer() {
     },
   ];
   return (
-    <footer className="grid-container bg-FooterBg mt-24 bg-bottom bg-no-repeat py-24 bg-cover">
+    <footer className="grid-container bg-FooterBg mt-10 bg-bottom bg-no-repeat pt-80 bg-cover">
       <main className="col-start-2 col-end-3 grid  ">
         <div className="flex md:flex-row flex-col justify h-between md:items-end">
-     
           {footerLink.map(({ title, sub1, sub2, sub3, sub4, sub5 }, index) => (
             <div className="mb-10 mr-10" key={index}>
               <h1 className="mb-5 text-xl font-semibold ">{title}</h1>
@@ -84,7 +83,7 @@ export default function Footer() {
       </main>
       <div className="col-start-2 col-end-3 py-4 text-gray-600 text-sm flex justify-between border-t">
         <p>Copyright © {date.getFullYear()}</p>
-        <p>Ed Tosoy All right reserved</p>
+        <p>Vincent Trono All right reserved</p>
       </div>
     </footer>
   );

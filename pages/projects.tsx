@@ -11,7 +11,7 @@ export default function projects() {
   return (
     <div>
       <Head>
-        <title>EdTosoy | Portfolio</title>
+        <title>Vincent | Portfolio</title>
         <meta
           name="description"
           content="I'm a software engineer based in Manila, Philippines specializing in building exceptional websites, applications, and everything in between. I started web development in 2018, after doing Front-end, I switched to Full Stack development, where I work with a variety of meaningful projects. I always build realistic websites and real world projects, not just simple todo list, calendar, calculator and all of NextJS TypeScript HTML React JavaScript CSS Tailwind Node PostgreSQL GraphQL Apollo  MongoDB 
@@ -25,7 +25,7 @@ export default function projects() {
       </Head>
       <Header />
       <div onMouseOver={() => setOpenMenu(false)}>
-        {/* <Projects /> */}
+        <Projects />
         <Footer />
       </div>
     </div>

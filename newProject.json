@@ -1,76 +1,78 @@
 {
   "data": [
     {
-      "name": "estore",
-      "stack": "NextJs, React, TypeScript, ApolloGraphQL , PostgreSQL ,TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/1.png",
-      "link": "https://estore-next-project.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Estore-Next-Project",
-      "text": ""
+      "name": "Coffee",
+      "stack": "React, React-Router-Dom, TypeScript, Tailwind",
+      "img": "/images/coffee.png",
+      "link": "https://coffee-zeta.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/coffee",
+      "text": "The Most Quality And Famous Coffee Shop Around The World."
     },
     {
-      "name": "SteveClothing",
-      "stack": "NextJs, React, TypeScript, PostgreSQL, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/2.png",
-      "link": "https://steve-clothing-next-project.vercel.app/",
-      "repo": "https://github.com/EdTosoy/SteveClothing-Next-Project",
-      "text": ""
+      "name": "Plantex",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/images/plantex.png",
+      "link": "https://plantex-website-ten.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
+      "text": "One of the most quality and famous online plant shop in peru."
     },
     {
-      "name": "Foodie.order",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/3.png",
-      "link": "https://edtosoy-foodiee.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Foodiee.Order-Next-Project",
-      "text": ""
+      "name": "Holux",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/images/holux.png",
+      "link": "https://holux-real-estate.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
+      "text": "The Most Trusted Real Estate Website."
     },
 
     {
-      "name": "Addstract",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/4.png",
-      "link": "https://edtosoy-addstract.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Addstract-Next-Project",
-      "text": ""
+      "name": "Christmas",
+      "stack": "React, TypeScript, Tailwind, Aos",
+      "img": "/images/christmas.png",
+      "link": "https://christmas-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Christmas-Website",
+      "text": "A Christmas Decorations Shop."
     },
+
     {
-      "name": "tasty",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/5.png",
-      "link": "https://edtosoy-tasty.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Tasty-Next-Project",
-      "text": ""
+      "name": "Delivery Landing Web",
+      "stack": "React, TypeScript, Tailwind",
+      "img": "/images/delivery.png",
+      "link": "https://delivery-landing-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Delivery-Landing-Website",
+      "text": "The most trusted and fastest delivery app."
     },
-    {
-      "name": "xypo",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/6.png",
-      "link": "https://edtosoy-xypo-git-main.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Xypo-Next-Project",
-      "text": ""
-    },
+
     {
       "name": "Fruity",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/7.png",
-      "link": "https://edtosoy-fruity.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Fruity-Next-Project",
+      "stack": "React, TypeScript,Sass",
+      "img": "/images/fruity.png",
+      "link": "https://my-fruity.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Fruity-app",
+      "text": "Unique Seller Of Real Fruit Extract Juices."
+    },
+    {
+      "name": "Tasty",
+      "stack": "Javascript, React, Sass",
+      "img": "/images/tasty.png",
+      "link": "https://tasty-app-gamma.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Tasty-app",
+      "text": "An Exclusive Online Resto."
+    },
+    {
+      "name": "Pompeo",
+      "stack": "Javascript, React, TypeScript,Sass, Aos",
+      "img": "/images/pompeo.png",
+      "link": "https://vince-pompeo.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Pompeo",
       "text": ""
     },
     {
-      "name": "sara",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/8.png",
-      "link": "https://edtosoy-sara.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Sara-Next-Project",
-      "text": ""
-    },
-    {
-      "name": "omnifood",
-      "stack": "NextJs, React, TypeScript, TailwindCss, FirebaseAuth, FramerMotion ",
-      "img": "/images/9.png",
-      "link": "https://omnifood-project-git-main.edtosoy.vercel.app/",
-      "repo": "https://github.com/EdTosoy/Omnifood-Project",
+      "name": "Sara",
+      "stack": "React, TypeScript, Sass",
+      "img": "/images/sara.png",
+      "link": "https://sara-ecommerce.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/sara",
       "text": ""
     }
   ]
