@@ -76,7 +76,9 @@ export default function Header() {
         <div className="hidden md:flex items-center  ">
           {navs.map(({ name, pathname }) => (
             <Link href={pathname} key={name}>
-              <nav className="mr-10 cursor-pointer navigation">{name}</nav>
+              <nav className="mr-10 cursor-pointer navigation hover:text-darkOrange">
+                {name}
+              </nav>
             </Link>
           ))}
           <Link href="mailto:ed.tosoy@gmail.com">

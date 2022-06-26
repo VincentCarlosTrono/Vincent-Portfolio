@@ -15,11 +15,12 @@ export default function Hero() {
           <p className="text-sm sm:text-base font-body mb-2 text-gray-700 ">
             I'm a software engineer based in Manila, Philippines specializing in
             building exceptional websites, applications, and everything in
-            between. <br />
+            between . <br />
           </p>
           <p className="text-sm sm:text-base  font-body text-gray-700 ">
-            Passionate, hardwork, and committed,Being a web developer makes me
-            happy by creating a projects with a unique UI/UX Design.
+            Passionate, hardwork, and committed, Building something is me
+            expressing myself. Building beautiful projects makes me proud and
+            happy.
           </p>
           <div className="md:flex items-center justify-between gap-4">
             <Link href="mailto:trono.vincentcii@gmail.com">

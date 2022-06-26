@@ -26,10 +26,10 @@ export default function Works() {
             ></div>
             <div className="" data-aos="fade-up" data-aos-duration="1000">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl capitalize my-2">
-                Million of jobs, finds the one that is rights for you
+                finds the one that
               </h1>
               <h1 className="text-2xl sm:text-3xl lg:text-4xl mb-4 font-bold ">
-                Check Out My Portfolio
+                is rights for you
               </h1>
               <p className=" text-sm sm:text-base text-gray-700 ">
                 I always build realistic websites and real world projects, not
@@ -37,7 +37,7 @@ export default function Works() {
               </p>
               <Link href="/projects">
                 <button className="py-2 sm:py-3 px-6 mt-5 sm:mt-8 rounded-full primary-btn  text-red-400   ">
-                  Show me
+                  My Works
                 </button>
               </Link>
             </div>

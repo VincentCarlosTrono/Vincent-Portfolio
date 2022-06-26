@@ -40,13 +40,13 @@ export default function About() {
     >
       <main className="col-start-2 col-end-3 grid   items-center  md:grid-cols-2">
         <div className="grid   justify-center ">
-          <div className="text-center sm:text-left  max-w-sm">
+          <div className="text-center sm:text-left  max-w-md">
             <div className="" data-aos="fade-up" data-aos-duration="1000">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl  my-2">
-                View Responses
+                Find your passion and
               </h1>
               <h1 className="text-2xl sm:text-3xl lg:text-4xl mb-4 font-bold">
-                and Gain Insight
+                Achieve success
               </h1>
               <p className=" text-sm sm:text-base text-gray-700">
                 Here are a few technologies I've been working with recently:
