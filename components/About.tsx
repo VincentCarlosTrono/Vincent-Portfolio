@@ -62,20 +62,12 @@ export default function About() {
   ];
   return (
     <section
-      className="grid-container pb-44 pt-64 relative  max-h-screen overflow-hidden"
+      className="grid-container pb-44 pt-64 relative  overflow-hidden section3Bg lg:bg-AboutBg bg-no-repeat bg-right-top"
       data-aos="fade-down"
       data-aos-duration="1000"
       id="About"
     >
-      <div className="absolute -right-36 ">
-        <Image
-          src="/images/section3Bg.png"
-          width={360}
-          height={360}
-          alt="Works Illustration"
-        />
-      </div>
-      <main className="col-start-2 col-end-3 grid   items-center grid-rows-2  md:grid-cols-2">
+      <main className="col-start-2 col-end-3 grid   items-center  md:grid-cols-2">
         <div className="grid   justify-center ">
           <div className="text-center sm:text-left  max-w-sm">
             <div className="" data-aos="fade-up" data-aos-duration="1000">

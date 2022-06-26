@@ -32,10 +32,25 @@ export default function Footer() {
   ];
   return (
     <footer className="grid-container bg-FooterBg mt-10 bg-bottom bg-no-repeat pt-80 bg-cover">
-      <main className="col-start-2 col-end-3 grid  ">
-        <div className="flex md:flex-row flex-col justify h-between md:items-end">
+      <main className="col-start-2 col-end-3">
+        <div className="grid md:grid-cols-4 grid-cols-2 justify-between items-start gap-5 ">
+          <div className="mb-14">
+            <strong>
+              <p className="mb-5 text-xl font-semibold ">
+                Vincent Carlos Trono
+              </p>
+            </strong>
+            <p className="mb-2">Front end Developer</p>
+
+            <p className="mb-2">
+              <strong>Phone :</strong> +639 389 916 831
+            </p>
+            <p>
+              <strong>Email :</strong> trono.vincentcii@gmail.com
+            </p>
+          </div>
           {footerLink.map(({ title, sub1, sub2, sub3, sub4, sub5 }, index) => (
-            <div className="mb-10 mr-10" key={index}>
+            <div className="mb-10 md:justify-self-end" key={index}>
               <h1 className="mb-5 text-xl font-semibold ">{title}</h1>
               <Link href={sub1[1]}>
                 <a

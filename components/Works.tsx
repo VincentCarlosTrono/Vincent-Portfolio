@@ -5,17 +5,9 @@ import Link from "next/link";
 export default function Works() {
   return (
     <section
-      className="grid-container  pb-16 pt-52 bg-no-repeat relative "
+      className="grid-container  pb-16 pt-52 relative lg:bg-WorkBg bg-left-top  section2Bg bg-no-repeat "
       id="Portfolio"
     >
-      <div className="absolute -left-40 -top-5">
-        <Image
-          src="/images/section2Bg.png"
-          width={360}
-          height={400}
-          alt="Works Illustration"
-        />
-      </div>
       <main className="col-start-2 col-end-3 grid   items-center md:grid-cols-2">
         <div className="">
           <Image

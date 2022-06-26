@@ -1,51 +1,35 @@
 {
   "data": [
     {
-      "name": "Furtech",
-      "stack": " React.js, TypeScript, Apollo, Express, GraphQL, JWT, PostgreSQL, Firebase",
-      "img": "/images/10.png",
-      "link": "https://edtosoy-blizly.web.app/",
-      "repo": "https://github.com/EdTosoy/Furtech-TS-Project",
+      "name": "Fruity",
+      "stack": "React, TypeScript,Sass",
+      "img": "/images/fruity.png",
+      "link": "https://my-fruity.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Fruity-app",
+      "text": "Unique Seller Of Real Fruit Extract Juices."
+    },
+    {
+      "name": "Tasty",
+      "stack": "Javascript, React, Sass",
+      "img": "/images/tasty.png",
+      "link": "https://tasty-app-gamma.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Tasty-app",
+      "text": "An Exclusive Online Resto."
+    },
+    {
+      "name": "Pompeo",
+      "stack": "Javascript, React, TypeScript,Sass, Aos",
+      "img": "/images/pompeo.png",
+      "link": "https://vince-pompeo.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Pompeo",
       "text": ""
     },
     {
-      "name": "Blizly",
-      "stack": " React.js, TypeScript, Apollo, Express, GraphQL, JWT, PostgreSQL, Firebase",
-      "img": "/images/11.png",
-      "link": "https://edtosoy-furtech.web.app/",
-      "repo": "https://github.com/EdTosoy/Blizly-TS-Project",
-      "text": ""
-    },
-    {
-      "name": "Jinada",
-      "stack": " TypeScript, React.js, React Router, SCSS(CSS), Firebase, Webpack as bundler. ",
-      "img": "/images/12.png",
-      "link": "https://edtosoy-jinada-9bbcb.web.app/home",
-      "repo": "https://github.com/EdTosoy/Jinada-TS-Project",
-      "text": ""
-    },
-    {
-      "name": "Domecile",
-      "stack": "HTML5, SCSS(CSS), JavaScript, Firebase, Parcel as bundler, and Scroll Out for scroll animations",
-      "img": "/images/13.png",
-      "link": "https://edtosoy-domicile.web.app/",
-      "repo": "https://github.com/EdTosoy/Domicile-Project",
-      "text": ""
-    },
-    {
-      "name": "Fiit",
-      "stack": "HTML5, SCSS(CSS), JavaScript, Firebase, Parcel as bundler, and Scroll Out for scroll animations",
-      "img": "/images/14.png",
-      "link": "https://edtosoy-fiit.web.app/",
-      "repo": "https://github.com/EdTosoy/FIIT-Project",
-      "text": ""
-    },
-    {
-      "name": "match",
-      "stack": "HTML5, SCSS(CSS), JavaScript, Firebase, Parcel as bundler, and Scroll Out for scroll animations",
-      "img": "/images/15.png",
-      "link": "https://edtosoy-match.web.app",
-      "repo": "https://github.com/EdTosoy/Match-Project",
+      "name": "Sara",
+      "stack": "React, TypeScript, Sass",
+      "img": "/images/sara.png",
+      "link": "https://sara-ecommerce.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/sara",
       "text": ""
     }
   ]

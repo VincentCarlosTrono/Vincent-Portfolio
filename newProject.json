@@ -41,39 +41,6 @@
       "link": "https://delivery-landing-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Delivery-Landing-Website",
       "text": "The most trusted and fastest delivery app."
-    },
-
-    {
-      "name": "Fruity",
-      "stack": "React, TypeScript,Sass",
-      "img": "/images/fruity.png",
-      "link": "https://my-fruity.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Fruity-app",
-      "text": "Unique Seller Of Real Fruit Extract Juices."
-    },
-    {
-      "name": "Tasty",
-      "stack": "Javascript, React, Sass",
-      "img": "/images/tasty.png",
-      "link": "https://tasty-app-gamma.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Tasty-app",
-      "text": "An Exclusive Online Resto."
-    },
-    {
-      "name": "Pompeo",
-      "stack": "Javascript, React, TypeScript,Sass, Aos",
-      "img": "/images/pompeo.png",
-      "link": "https://vince-pompeo.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Pompeo",
-      "text": ""
-    },
-    {
-      "name": "Sara",
-      "stack": "React, TypeScript, Sass",
-      "img": "/images/sara.png",
-      "link": "https://sara-ecommerce.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/sara",
-      "text": ""
     }
   ]
 }

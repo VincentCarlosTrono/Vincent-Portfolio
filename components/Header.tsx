@@ -47,12 +47,12 @@ export default function Header() {
             {navs.map(({ name, pathname }) => (
               <Link href={pathname} key={name}>
                 <nav className="cursor-pointer navigation my-4 hover:text-red-400 ">
-                  {name}
+                  <p onClick={() => setOpenMenu((prev) => !prev)}>{name}</p>
                 </nav>
               </Link>
             ))}
             <button className="py-2 px-5 border-2 rounded-full secondary-btn ">
-              Contact US
+              Download CV
             </button>
           </div>
         </div>
@@ -63,11 +63,12 @@ export default function Header() {
         } col-start-2 col-end-3   flex items-center justify-between `}
       >
         <Link href="/">
-          <div className="cursor-pointer  ">
+          <div className="cursor-pointer logo">
             <Image
-              src="/images/logo1.png"
-              width={154}
-              height={61}
+              src="/images/logo.png"
+              className="logo"
+              width={60}
+              height={60}
               alt="Developer logo"
             />
           </div>
@@ -89,7 +90,7 @@ export default function Header() {
           </Link>
         </div>
         <div
-          className="md:hidden sm:mr-4 cursor-pointer"
+          className="md:hidden sm:mr-4 cursor-pointer grid items-center justify-center"
           onClick={() => setOpenMenu((prev) => !prev)}
         >
           <box-icon name="menu" size="md"></box-icon>
