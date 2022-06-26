@@ -26,7 +26,7 @@ export default function Works() {
             ></div>
             <div className="" data-aos="fade-up" data-aos-duration="1000">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl capitalize my-2">
-                Comitted, Hard Work, Positve
+                Million of jobs, finds the one that is rights for you
               </h1>
               <h1 className="text-2xl sm:text-3xl lg:text-4xl mb-4 font-bold ">
                 Check Out My Portfolio

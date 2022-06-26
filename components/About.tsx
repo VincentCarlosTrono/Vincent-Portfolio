@@ -5,59 +5,30 @@ import Link from "next/link";
 export default function About() {
   const logos = [
     {
-      name: "NextJS",
-      svg: "https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/nextjs.svg",
-    },
-    {
-      name: "TypeScript",
-      svg: "https://raw.githubusercontent.com/file-icons/source/master/svg/TypeScript-Alt.svg",
-    },
-    {
-      name: "HTML",
-      svg: "https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/html5.svg",
-    },
-    {
       name: "React",
       svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/react.svg",
     },
 
     {
-      name: "JavaScript",
-      svg: "https://raw.githubusercontent.com/TheEssemCraft/FocialMix/dev/src/javascript.svg",
+      name: "TypeScript",
+      svg: "https://raw.githubusercontent.com/file-icons/source/master/svg/TypeScript-Alt.svg",
     },
     {
-      name: "CSS",
-      svg: "https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/css3.svg",
+      name: "SASS",
+      svg: "https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/sass.svg",
     },
 
     {
       name: "Tailwind",
       svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/tailwindcss.svg",
     },
-
     {
-      name: "Node",
-      svg: "https://raw.githubusercontent.com/TheEssemCraft/FocialMix/dev/src/nodejs.svg",
+      name: "JavaScript",
+      svg: "https://raw.githubusercontent.com/TheEssemCraft/FocialMix/dev/src/javascript.svg",
     },
-
     {
-      name: "PostgreSQL",
-      svg: "https://raw.githubusercontent.com/file-icons/MFixx/master/svg/postgresql.svg",
-    },
-
-    {
-      name: "GraphQL",
-      svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/graphql.svg",
-    },
-
-    {
-      name: "Apollo",
-      svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/apollographql.svg",
-    },
-
-    {
-      name: "MongoDB",
-      svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mongodb.svg",
+      name: "HTML",
+      svg: "https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/html5.svg",
     },
   ];
   return (
@@ -90,7 +61,7 @@ export default function About() {
                   </div>
                 ))}
               </div>
-              <Link href="https://github.com/EdTosoy">
+              <Link href="https://github.com/VincentCarlosTrono">
                 <a target="_blank" rel="noopener noreferrer">
                   <button className="py-2 sm:py-3 px-6 mt-5 sm:mt-8 rounded-full secondary-btn border-2 text-darkOrange border-darkOrange">
                     Learn More

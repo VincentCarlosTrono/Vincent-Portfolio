@@ -34,14 +34,14 @@ export default function Contact() {
       <section className="grid-container">
         <main className="col-start-2 col-end-3 grid justify-center ">
           <div className="flex gap-4 items-center mb-8 justify-center">
-            <Link href="https://github.com/WilbertTosoy/resume2/raw/main/EdTosoy-Developer-Resume.pdf">
+            <Link href="mailto:trono.vincentcii@gmail.com">
               <a target="_blank" rel="noopener noreferrer">
                 <button className="py-2 sm:py-3 px-6 rounded-full primary-btn  ">
                   Email Me
                 </button>
               </a>
             </Link>
-            <Link href="https://github.com/EdTosoy">
+            <Link href="https://github.com/VincentCarlosTrono">
               <a target="_blank" rel="noopener noreferrer" aria-label="github">
                 <button
                   className="grid place-content-center p-3  bg-gray-200 hover:bg-gray-300 rounded-full transform hover:scale-105 "
@@ -55,7 +55,7 @@ export default function Contact() {
                 </button>
               </a>
             </Link>
-            <Link href="https://www.linkedin.com/in/edtosoy/">
+            <Link href="https://www.linkedin.com/in/vincent-trono-668462191/">
               <a
                 target="_blank"
                 rel="noopener noreferrer"
@@ -73,11 +73,11 @@ export default function Contact() {
                 </button>
               </a>
             </Link>
-            <Link href="https://www.linkedin.com/in/edtosoy/">
+            <Link href="https://www.facebook.com/tronovincentcarlos">
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="LinkedIn"
+                aria-label="Facebook"
               >
                 <button
                   className="grid place-content-center p-3 bg-gray-200 hover:bg-gray-300 rounded-full transform hover:scale-105 "

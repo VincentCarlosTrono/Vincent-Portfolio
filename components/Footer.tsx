@@ -23,11 +23,14 @@ export default function Footer() {
     },
     {
       title: "Contact",
-      sub1: ["Facebook", "https://www.facebook.com/EdTosoy"],
-      sub2: ["LinkedIn", "https://www.linkedin.com/in/edtosoy/"],
-      sub3: ["Email", "mailto:ed.tosoy@gmail.com"],
-      sub4: ["Twitter", "https://twitter.com/EdTosoy"],
-      sub5: ["Github", "https://github.com/EdTosoy"],
+      sub1: ["Facebook", "https://www.facebook.com/tronovincentcarlos"],
+      sub2: [
+        "LinkedIn",
+        "https://www.linkedin.com/in/vincent-trono-668462191/",
+      ],
+      sub3: ["Email", "mailto:trono.vincentcii@gmail.com"],
+      sub4: ["Twitter", "https://twitter.com/TronoVincent"],
+      sub5: ["Github", "https://github.com/VincentCarlosTrono"],
     },
   ];
   return (

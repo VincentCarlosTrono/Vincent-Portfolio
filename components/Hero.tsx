@@ -18,11 +18,11 @@ export default function Hero() {
             between. <br />
           </p>
           <p className="text-sm sm:text-base  font-body text-gray-700 ">
-            Passionate, hardwork, committed naol web developer makes me happy
-            creating wonderful projects.
+            Passionate, hardwork, and committed,Being a web developer makes me
+            happy by creating a projects with a unique UI/UX Design.
           </p>
           <div className="md:flex items-center justify-between gap-4">
-            <Link href="https://github.com/WilbertTosoy/resume2/raw/main/EdTosoy-Developer-Resume.pdf">
+            <Link href="mailto:trono.vincentcii@gmail.com">
               <a target="_blank" rel="noopener noreferrer">
                 <button className="py-2 sm:py-3 px-6 mt-5 sm:mt-9  rounded-full primary-btn  ">
                   Contact Me
@@ -30,7 +30,7 @@ export default function Hero() {
               </a>
             </Link>
             <div className="flex mt-5 sm:mt-8 gap-4 items-center justify-center">
-              <Link href="https://github.com/EdTosoy">
+              <Link href="https://github.com/VincentCarlosTrono">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
@@ -48,7 +48,7 @@ export default function Hero() {
                   </button>
                 </a>
               </Link>
-              <Link href="https://www.linkedin.com/in/edtosoy/">
+              <Link href="https://www.linkedin.com/in/vincent-trono-668462191/">
                 <a
                   target="_blank"
                   rel="noopener noreferrer"

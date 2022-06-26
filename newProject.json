@@ -4,15 +4,23 @@
       "name": "Coffee",
       "stack": "React, React-Router-Dom, TypeScript, Tailwind",
       "img": "/images/coffee.png",
-      "link": "https://coffee-zeta.vercel.app/",
+      "link": "https://vincent-coffee-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/coffee",
       "text": "The Most Quality And Famous Coffee Shop Around The World."
+    },  
+    {
+      "name": "Travel",
+      "stack": "React, React-Router-Dom, React-Player, TypeScript, Tailwind",
+      "img": "/images/travel.png",
+      "link": "https://vincent-travel-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Travel-Website",
+      "text": "Most Trusted Resort Finder That Will Promised You The Best Accomodation For Your Loveones."
     },
     {
       "name": "Plantex",
       "stack": "React, TypeScript,Tailwind, Aos",
       "img": "/images/plantex.png",
-      "link": "https://plantex-website-ten.vercel.app/",
+      "link": "https://vincent-plantex-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
       "text": "One of the most quality and famous online plant shop in peru."
     },
@@ -20,7 +28,7 @@
       "name": "Holux",
       "stack": "React, TypeScript,Tailwind, Aos",
       "img": "/images/holux.png",
-      "link": "https://holux-real-estate.vercel.app/",
+      "link": "https://vincent-holux-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
       "text": "The Most Trusted Real Estate Website."
     },
@@ -29,7 +37,7 @@
       "name": "Christmas",
       "stack": "React, TypeScript, Tailwind, Aos",
       "img": "/images/christmas.png",
-      "link": "https://christmas-website.vercel.app/",
+      "link": "https://vincent-christmas-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Christmas-Website",
       "text": "A Christmas Decorations Shop."
     },
@@ -38,7 +46,7 @@
       "name": "Delivery Landing Web",
       "stack": "React, TypeScript, Tailwind",
       "img": "/images/delivery.png",
-      "link": "https://delivery-landing-website.vercel.app/",
+      "link": "https://vincent-delivery-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Delivery-Landing-Website",
       "text": "The most trusted and fastest delivery app."
     }
