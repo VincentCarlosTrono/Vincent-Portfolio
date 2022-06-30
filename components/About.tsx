@@ -27,6 +27,19 @@ export default function About() {
       svg: "https://raw.githubusercontent.com/TheEssemCraft/FocialMix/dev/src/javascript.svg",
     },
     {
+      name: "Bootstrap",
+      svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg",
+    },
+
+    {
+      name: "Styled Component",
+      svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/styledcomponents.svg",
+    },
+    {
+      name: "Framermotion",
+      svg: "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg",
+    },
+    {
       name: "HTML",
       svg: "https://raw.githubusercontent.com/file-icons/DevOpicons/master/svg/html5.svg",
     },
@@ -40,7 +53,7 @@ export default function About() {
     >
       <main className="col-start-2 col-end-3 grid   items-center  md:grid-cols-2">
         <div className="grid   justify-center ">
-          <div className="text-center sm:text-left  max-w-md">
+          <div className="text-center sm:text-left  max-w-xl">
             <div className="" data-aos="fade-up" data-aos-duration="1000">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl  my-2">
                 Find your passion and
@@ -51,13 +64,13 @@ export default function About() {
               <p className=" text-sm sm:text-base text-gray-700">
                 Here are a few technologies I've been working with recently:
               </p>
-              <div className="grid grid-cols-3 mt-1">
+              <div className="grid grid-cols-3  mt-1">
                 {logos.map(({ name, svg }) => (
                   <div className=" flex mt-1 " key={name}>
                     <div className="w-6 h-6 relative">
                       <Image src={svg} layout="fill" alt={name} />
                     </div>
-                    <div className="ml-2  ">{name}</div>
+                    <div className="mx-2  ">{name}</div>
                   </div>
                 ))}
               </div>
