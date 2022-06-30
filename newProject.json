@@ -10,7 +10,7 @@
     },
      {
       "name": "Delicious",
-      "stack": "React, React-Router-Dom, TypeScript, Tailwind",
+      "stack": "React, React-Router-Dom, JavaScript, Spoonacular-API, Styled-Components, Framermotion, React-Icons ",
       "img": "/images/delicious.png",
       "link": "https://vincent-delicious-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Recipe-App",
