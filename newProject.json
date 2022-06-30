@@ -25,14 +25,6 @@
       "text": "Most Trusted Resort Finder That Will Promised You The Best Accomodation For Your Loveones."
     },
     {
-      "name": "Holux",
-      "stack": "React, TypeScript,Tailwind, Aos",
-      "img": "/images/holux.png",
-      "link": "https://vincent-holux-website.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
-      "text": "The Most Trusted Real Estate Website."
-    },
-    {
       "name": "Plantex",
       "stack": "React, TypeScript,Tailwind, Aos",
       "img": "/images/plantex.png",
@@ -40,6 +32,14 @@
       "repo": "https://github.com/VincentCarlosTrono/Plantex-Website",
       "text": "One of the most quality and famous online plant shop in peru."
     },
+    {
+      "name": "Holux",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/images/holux.png",
+      "link": "https://vincent-holux-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
+      "text": "The Most Trusted Real Estate Website."
+    }, 
     {
       "name": "Christmas",
       "stack": "React, TypeScript, Tailwind, Aos",
