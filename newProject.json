@@ -7,6 +7,14 @@
       "link": "https://vincent-coffee-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/coffee",
       "text": "The Most Quality And Famous Coffee Shop Around The World."
+    },
+     {
+      "name": "Delicious",
+      "stack": "React, React-Router-Dom, TypeScript, Tailwind",
+      "img": "/images/delicious.png",
+      "link": "https://vincent-delicious-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Recipe-App",
+      "text": "We can provides you the Recipes of the Food you wanted to make."
     },  
     {
       "name": "Travel",
@@ -17,6 +25,14 @@
       "text": "Most Trusted Resort Finder That Will Promised You The Best Accomodation For Your Loveones."
     },
     {
+      "name": "Holux",
+      "stack": "React, TypeScript,Tailwind, Aos",
+      "img": "/images/holux.png",
+      "link": "https://vincent-holux-website.vercel.app/",
+      "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
+      "text": "The Most Trusted Real Estate Website."
+    },
+    {
       "name": "Plantex",
       "stack": "React, TypeScript,Tailwind, Aos",
       "img": "/images/plantex.png",
@@ -25,30 +41,12 @@
       "text": "One of the most quality and famous online plant shop in peru."
     },
     {
-      "name": "Holux",
-      "stack": "React, TypeScript,Tailwind, Aos",
-      "img": "/images/holux.png",
-      "link": "https://vincent-holux-website.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
-      "text": "The Most Trusted Real Estate Website."
-    },
-
-    {
       "name": "Christmas",
       "stack": "React, TypeScript, Tailwind, Aos",
       "img": "/images/christmas.png",
       "link": "https://vincent-christmas-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Christmas-Website",
       "text": "A Christmas Decorations Shop."
-    },
-
-    {
-      "name": "Delivery Landing Web",
-      "stack": "React, TypeScript, Tailwind",
-      "img": "/images/delivery.png",
-      "link": "https://vincent-delivery-website.vercel.app/",
-      "repo": "https://github.com/VincentCarlosTrono/Delivery-Landing-Website",
-      "text": "The most trusted and fastest delivery app."
     }
   ]
 }
