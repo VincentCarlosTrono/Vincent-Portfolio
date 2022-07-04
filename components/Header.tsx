@@ -81,7 +81,7 @@ export default function Header() {
               </nav>
             </Link>
           ))}
-          <Link href="">
+          <Link href="https://github.com/VincentCarlosTrono/ResumeBg/raw/main/Vincent-Trono-Resme.pdf">
             <button
               className={`py-2 sm:py-3 px-6  border-2 rounded-full secondary-btn ${
                 scroll && "primary-btn border-none shadow-none"
