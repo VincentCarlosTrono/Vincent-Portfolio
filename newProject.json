@@ -2,20 +2,20 @@
   "data": [
     {
       "name": "Coffee",
-      "stack": "React, React-Router-Dom, TypeScript, Tailwind",
+      "stack": "React, React-Router-Dom, TypeScript, Tailwind, I18n",
       "img": "/images/coffee.png",
       "link": "https://vincent-coffee-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/coffee",
       "text": "The Most Quality And Famous Coffee Shop Around The World."
     },
-     {
+    {
       "name": "Delicious",
       "stack": "React, React-Router-Dom, JavaScript, Spoonacular-API, Styled-Components, Framermotion, React-Icons ",
       "img": "/images/delicious.png",
       "link": "https://vincent-delicious-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Recipe-App",
       "text": "We can provides you the Recipes of the Food you wanted to make."
-    },  
+    },
     {
       "name": "Travel",
       "stack": "React, React-Router-Dom, React-Player, TypeScript, Tailwind",
@@ -39,7 +39,7 @@
       "link": "https://vincent-holux-website.vercel.app/",
       "repo": "https://github.com/VincentCarlosTrono/Holux-Real-Estate",
       "text": "The Most Trusted Real Estate Website."
-    }, 
+    },
     {
       "name": "Christmas",
       "stack": "React, TypeScript, Tailwind, Aos",
